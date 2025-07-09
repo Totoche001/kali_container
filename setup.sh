@@ -2,7 +2,7 @@
 
 # Définir les URLs des scripts
 GITHUB_USER="Totoche001"
-REPO_NAME="NOM_DU_DEPOT"
+REPO_NAME="kali_container"
 BRANCH="main"  # ou "master"
 
 BASE_URL="https://raw.githubusercontent.com/$GITHUB_USER/$REPO_NAME/$BRANCH"
